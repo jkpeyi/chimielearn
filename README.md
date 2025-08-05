@@ -1,4 +1,4 @@
-#Politique de Confidentialité pour chimieLearn
+# Politique de Confidentialité pour ChimieLearn
 
 Dernière mise à jour : 5 août 2025
 Cette politique de confidentialité explique la manière dont l'application mobile chimieLearn gère les informations de ses utilisateurs.
